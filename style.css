@@ -11,6 +11,9 @@ body{
     font-size:25px;
     text-align: center;
 }
+.title{
+    padding-top:5%;
+}
 /**CHOSE**/
 .one-chose{
     box-shadow: 5px 5px 5px #888888;
@@ -19,6 +22,7 @@ body{
     width:40%;
     float: left;
     margin-left:30px;
+    margin-top:5%;
 }
 .chose-p,.chose-tips{
     padding-top:20%;
