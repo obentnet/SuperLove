@@ -1,0 +1,33 @@
+a{
+    color:black;
+}
+body{
+    background-color: #FCE4EC;
+}
+.head{
+    text-align:center;
+}
+.p-title{
+    font-size:25px;
+    text-align: center;
+}
+/**CHOSE**/
+.one-chose{
+    box-shadow: 5px 5px 5px #888888;
+    border-radius: 20px;
+    height: 300px;
+    width:40%;
+    float: left;
+    margin-left:30px;
+}
+.chose-p,.chose-tips{
+    padding-top:20%;
+    text-align:center;
+    font-size:20px;
+}
+.footer-p{
+    padding-top:100%;
+    text-align:center;
+    font-size:10px;
+    color:#757575;
+}
