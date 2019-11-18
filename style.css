@@ -18,11 +18,12 @@ body{
 .one-chose{
     box-shadow: 5px 5px 5px #888888;
     border-radius: 20px;
-    height: 300px;
+    height: 250px;
     width:40%;
     float: left;
     margin-left:30px;
     margin-top:5%;
+    border:1px solid black;
 }
 .chose-p,.chose-tips{
     padding-top:20%;
